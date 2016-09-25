@@ -3,7 +3,7 @@ NSShoppingCary
 
 Spring MVC MongoDB example also uses angular and bootstrap.
 
-![ScreenShot](https://github.com/nsozbay/NSShoppingCart/tree/master/src/main/webapp/img/MainPage1.png)
+![ScreenShot](https://raw.githubusercontent.com/nsozbay/NSShoppingCart/master/src/main/webapp/img/MainPage1.png)
 
 ##Setup
 1.  Download and install Spring Tool Suite http://spring.io/tools/sts
