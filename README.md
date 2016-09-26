@@ -1,4 +1,4 @@
-NSShoppingCary
+NSShoppingCart
 ===========================
 
 Spring MVC MongoDB example also uses angular and bootstrap.
